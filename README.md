@@ -1,4 +1,4 @@
-# TestingSortingMethods
+# TestingSortingMethods 
 
 A Node.js command line application that can test different sorting methods to see which method is the fastest.
 
